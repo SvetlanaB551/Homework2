@@ -1,9 +1,4 @@
-﻿// void Zadanie1 ()
-// {
-// Console.WriteLine("Введите трехзначное число: ");
-// int x = int.Parse(Console.ReadLine());
-// }
-void Ex1()
+﻿void Ex1()
 {
     Console.WriteLine("Введите трехзначное число: ");
     int x = int.Parse(Console.ReadLine());
@@ -26,11 +21,6 @@ void Ex2()
 
 }
 
- 
-
-
-
-
 void Ex3()
 {
     Console.WriteLine("Сегодня выходной? ");
@@ -51,6 +41,6 @@ void Ex3()
     }
 
 
-//Ex1();
+Ex1();
 Ex2();
-//Ex3();
+Ex3();
